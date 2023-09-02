@@ -5,9 +5,9 @@ Head GIF
 
 
 <!--
-My Appearance
+My Appearance OBS: ":%29" = ":)"
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=832161&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Müller;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=832161&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Müller;I'm+from+Brazil;I'm+Graduating+Systems+Development;Be+Very+Welcome!)](https://git.io/typing-svg)
 
 
 <!--
