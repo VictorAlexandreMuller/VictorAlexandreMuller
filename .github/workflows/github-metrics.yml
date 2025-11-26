@@ -25,9 +25,4 @@ jobs:
           plugin_languages: no
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_stargazers: yes        # quantas estrelas seus projetos receberam
-          plugin_contributors: yes      # pessoas que contribuíram em projetos seus
-          plugin_followup: yes          # issues abertas / fechadas / evolução
-          plugin_habits: yes            # horário do dia que você mais programa!
-          plugin_achievements: yes 
           token: ${{ secrets.GITHUB_TOKEN }}
