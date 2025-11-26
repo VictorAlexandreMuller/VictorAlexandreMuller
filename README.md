@@ -20,18 +20,9 @@
 
 ![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorAlexandreMuller&theme=tokyonight)
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorAlexandreMuller&theme=tokyonight)
-
-![Mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorAlexandreMuller&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VictorAlexandreMuller&theme=discord&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VictorAlexandreMuller&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/832161/VictorAlexandreMuller" width="700px">
 </p>
 
 ---
@@ -80,3 +71,10 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA4167&height=120&section=footer"/>
+
+
+<h2 align="center">📈 Full GitHub Insights</h2>
+
+<p align="center">
+  <img src="./github-metrics.svg" width="90%" />
+</p>
