@@ -21,11 +21,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           filename: github-metrics.svg
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
+          plugin_isocalendar: no
+          plugin_languages: no
           plugin_lines: yes
           plugin_traffic: yes
+          plugin_stargazers: yes        # quantas estrelas seus projetos receberam
+          plugin_contributors: yes      # pessoas que contribuíram em projetos seus
+          plugin_followup: yes          # issues abertas / fechadas / evolução
+          plugin_habits: yes            # horário do dia que você mais programa!
+          plugin_achievements: yes 
           token: ${{ secrets.GITHUB_TOKEN }}
